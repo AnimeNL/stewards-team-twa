@@ -4,4 +4,5 @@
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
     <color name="colorStatusBar">#1565c0</color>
+    <color name="splashScreenBackgroundColor">#b2dfdb</color>
 </resources>
